@@ -1,0 +1,38 @@
+/*
+  Ann Li
+  IntroCS pd00 sec00
+  HW05: Stuylin'
+  Due 2/22/2021
+*/
+
+h1 {
+    color: #E9967A;
+    font-size: 30;
+    text-align: center;
+}
+
+h2 {
+    color: #9999ff;
+}
+
+h3 {
+    color: #9999ff;
+}
+
+body {
+	background-color: black;
+	font-family: Monospace;
+	margin: 25px;
+}
+
+p {
+	color: #e6e6ff;
+}
+
+li {
+	color: #e6e6ff;
+	font-style: italic;
+}
+/*
+makes the table of context list and teammate showcase list into italics
+/*
