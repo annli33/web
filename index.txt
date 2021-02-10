@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<!--
+     Clyde "Thluffy" Sinclair
+     IntroCS pd00 sec00
+     HW99 -- demo/sample
+     2021-02-02
+-->
+
+<html>
+
+  <head>
+    <!-- metadata about your page goes in head section -->
+    <meta charset="utf-8">
+
+    <!-- applying styling encoded in main.css to this page -->
+    <link href="main.css" rel="stylesheet">
+
+    <title>
+      title go hurrr
+    </title>
+  </head>
+
+  <body>
+    <h1>
+      this is an h1 heading
+    </h1>
+    <h2>
+      this is an h2 heading
+    </h2>
+    foo
+  </body>
+
+</html>
